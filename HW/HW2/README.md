@@ -15,4 +15,4 @@ This project implements a machine learning pipeline to predict gold price trends
 1. Create and activate a Python environment
 2. Install dependencies: `pip install -r requirements.txt`
 3. Configure environment variables in `.env` file
-4. Run `notebooks/00_project_setup.ipynb` to verify setup
+4. Run `notebooks/00_project_setup.ipynb`
